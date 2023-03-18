@@ -1,15 +1,15 @@
 #include <stdio.h>
 /**
  * main - a program that prints the size of various types using Sizeof function
- * Return 0(Success)
+ * Return 0 (Success)
  */
 int main(void)
 {
-	char a;
-	int b;
-	long int c;
-	float f;
-	long long int d;
+char a;
+int b;
+long int c;
+float f;
+long long int d;
 
 printf("Size of a char:%lu byte(s)\n", (unsigned long)sizeof(a));
 printf("Size of an int:%lu byte(s)\n", (unsigned long)sizeof(b));
