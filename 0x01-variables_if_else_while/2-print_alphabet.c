@@ -11,8 +11,8 @@ int main(void)
 	while (x <= y)
 	{
 		putchar(x);
-		putchar('\n');
 		x++;
 	}
+	putchar('\n');
 	return (0);
 }
