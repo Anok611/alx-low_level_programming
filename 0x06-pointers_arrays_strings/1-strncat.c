@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strncar - a function that concatenates two strings using at most n bytes
+ * _strncat - a function that concatenates two strings using at most n bytes
  * @dest: first string variable
  * @src: second string variable
  * @n: size of bytes
