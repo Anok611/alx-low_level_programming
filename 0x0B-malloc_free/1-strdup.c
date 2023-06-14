@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * description- copy of the string given as parameter
- * _strdup - duplicates copy of given parameter string
+ *_strdup - duplicates copy of given parameter string
  * @str: variable fo given string
  * Return: pointer to give str or NULL if str = NULL
  */
